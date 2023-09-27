@@ -5,6 +5,19 @@ body {
     font-weight: bold;
     color: white;
     text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+#container {
+    min-width:600px;
+    max-width: 80%;
+    margin: auto;
+    height: 300px;
+    vertical-align: middle;
+    margin: auto;
 }
 
 h1 {
